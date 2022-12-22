@@ -1,5 +1,5 @@
-# 2021-NERTHUS-core
-Scripts for our 2021 NERTHUS neutronic and depletion paper
+# 2022-Sensitivity Study
+Scripts for our 2022 Sensitivity Study Paper
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~ File Directory ~~~~
